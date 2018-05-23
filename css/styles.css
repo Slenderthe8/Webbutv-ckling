@@ -1,0 +1,23 @@
+main{
+    
+}
+nav ul{
+    list-style: none;
+    display:flex;
+    width: 500px;
+    justify-content: space-between;
+}
+nav li{
+    display:block;
+}
+a {
+    text-decoration: none;
+}
+.Bild {
+    width: 500px;
+ 
+    float:right;
+}
+h1,p {
+    max-width: 500px;
+}
